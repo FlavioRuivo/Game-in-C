@@ -1,6 +1,6 @@
 # 🚀 Batalha dos Drones (C)
 
-Projeto desenvolvido no âmbito da unidade curricular de **Introdução à Programação (UAb 2025/2026)**.
+Projeto desenvolvido no âmbito da unidade curricular de **Introdução à Programação**.
 
 Inspirado no clássico jogo *Batalha Naval*, este programa simula uma **Batalha dos Drones**, onde o objetivo é identificar e eliminar peças de artilharia inimigas num mapa desconhecido.
 
