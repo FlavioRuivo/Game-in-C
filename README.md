@@ -24,7 +24,6 @@ De acordo com o enunciado, cada peça:
 - Simulação de estados (desconhecido / seguro / inseguro)
 - Processamento de input do utilizador
 - Lógica condicional e iterativa
-- Estratégias heurísticas (IA simples)
 
 ---
 
